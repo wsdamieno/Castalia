@@ -1,0 +1,417 @@
+
+0                 SN.node[0].Communication.Radio           Initialized RX mode to normal
+0                 SN.node[0].Communication.Radio           Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[0].Communication.Radio           Default sleep level initialized to idle
+0                 SN.node[0].Communication.Radio           completing transition to 0 (RX)
+0                 SN.node[1].Communication.Radio           Initialized RX mode to normal
+0                 SN.node[1].Communication.Radio           Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[1].Communication.Radio           Default sleep level initialized to idle
+0                 SN.node[1].Communication.Radio           completing transition to 0 (RX)
+0                 SN.node[2].Communication.Radio           Initialized RX mode to normal
+0                 SN.node[2].Communication.Radio           Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[2].Communication.Radio           Default sleep level initialized to idle
+0                 SN.node[2].Communication.Radio           completing transition to 0 (RX)
+0                 SN.node[3].Communication.Radio           Initialized RX mode to normal
+0                 SN.node[3].Communication.Radio           Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[3].Communication.Radio           Default sleep level initialized to idle
+0                 SN.node[3].Communication.Radio           completing transition to 0 (RX)
+0                 SN.node[4].Communication.Radio           Initialized RX mode to normal
+0                 SN.node[4].Communication.Radio           Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[4].Communication.Radio           Default sleep level initialized to idle
+0                 SN.node[4].Communication.Radio           completing transition to 0 (RX)
+0                 SN.node[5].Communication.Radio           Initialized RX mode to normal
+0                 SN.node[5].Communication.Radio           Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[5].Communication.Radio           Default sleep level initialized to idle
+0                 SN.node[5].Communication.Radio           completing transition to 0 (RX)
+0                 SN.node[6].Communication.Radio           Initialized RX mode to normal
+0                 SN.node[6].Communication.Radio           Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[6].Communication.Radio           Default sleep level initialized to idle
+0                 SN.node[6].Communication.Radio           completing transition to 0 (RX)
+0                 SN.node[7].Communication.Radio           Initialized RX mode to normal
+0                 SN.node[7].Communication.Radio           Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[7].Communication.Radio           Default sleep level initialized to idle
+0                 SN.node[7].Communication.Radio           completing transition to 0 (RX)
+0                 SN.node[8].Communication.Radio           Initialized RX mode to normal
+0                 SN.node[8].Communication.Radio           Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[8].Communication.Radio           Default sleep level initialized to idle
+0                 SN.node[8].Communication.Radio           completing transition to 0 (RX)
+0                 SN.node[9].Communication.Radio           Initialized RX mode to normal
+0                 SN.node[9].Communication.Radio           Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[9].Communication.Radio           Default sleep level initialized to idle
+0                 SN.node[9].Communication.Radio           completing transition to 0 (RX)
+0                 SN.node[10].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[10].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[10].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[10].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[11].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[11].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[11].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[11].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[12].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[12].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[12].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[12].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[13].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[13].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[13].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[13].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[14].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[14].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[14].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[14].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[15].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[15].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[15].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[15].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[16].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[16].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[16].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[16].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[17].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[17].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[17].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[17].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[18].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[18].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[18].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[18].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[19].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[19].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[19].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[19].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[20].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[20].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[20].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[20].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[21].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[21].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[21].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[21].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[22].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[22].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[22].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[22].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[23].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[23].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[23].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[23].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[24].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[24].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[24].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[24].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[25].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[25].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[25].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[25].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[26].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[26].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[26].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[26].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[27].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[27].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[27].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[27].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[28].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[28].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[28].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[28].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[29].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[29].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[29].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[29].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[30].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[30].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[30].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[30].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[31].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[31].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[31].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[31].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[32].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[32].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[32].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[32].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[33].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[33].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[33].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[33].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[34].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[34].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[34].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[34].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[35].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[35].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[35].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[35].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[36].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[36].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[36].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[36].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[37].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[37].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[37].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[37].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[38].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[38].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[38].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[38].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[39].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[39].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[39].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[39].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[40].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[40].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[40].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[40].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[41].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[41].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[41].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[41].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[42].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[42].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[42].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[42].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[43].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[43].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[43].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[43].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[44].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[44].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[44].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[44].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[45].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[45].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[45].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[45].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[46].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[46].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[46].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[46].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[47].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[47].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[47].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[47].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[48].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[48].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[48].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[48].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[49].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[49].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[49].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[49].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[50].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[50].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[50].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[50].Communication.Radio          completing transition to 0 (RX)
+0                 SN.wirelessChannel                       Number of distinct space cells: 51
+0                 SN.wirelessChannel                       Each cell affects 51 other cells on average
+0                 SN.wirelessChannel                       The pathLoss array of lists was allocated in 0.119064 MBytes
+0                 SN.wirelessChannel                       Time for Wireless Channel module initialization: 0.000501secs
+0                 SN.node[0].Communication.Radio           Initialized RX mode to normal
+0                 SN.node[0].Communication.Radio           Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[0].Communication.Radio           Default sleep level initialized to idle
+0                 SN.node[0].Communication.Radio           completing transition to 0 (RX)
+0                 SN.node[1].Communication.Radio           Initialized RX mode to normal
+0                 SN.node[1].Communication.Radio           Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[1].Communication.Radio           Default sleep level initialized to idle
+0                 SN.node[1].Communication.Radio           completing transition to 0 (RX)
+0                 SN.node[2].Communication.Radio           Initialized RX mode to normal
+0                 SN.node[2].Communication.Radio           Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[2].Communication.Radio           Default sleep level initialized to idle
+0                 SN.node[2].Communication.Radio           completing transition to 0 (RX)
+0                 SN.node[3].Communication.Radio           Initialized RX mode to normal
+0                 SN.node[3].Communication.Radio           Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[3].Communication.Radio           Default sleep level initialized to idle
+0                 SN.node[3].Communication.Radio           completing transition to 0 (RX)
+0                 SN.node[4].Communication.Radio           Initialized RX mode to normal
+0                 SN.node[4].Communication.Radio           Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[4].Communication.Radio           Default sleep level initialized to idle
+0                 SN.node[4].Communication.Radio           completing transition to 0 (RX)
+0                 SN.node[5].Communication.Radio           Initialized RX mode to normal
+0                 SN.node[5].Communication.Radio           Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[5].Communication.Radio           Default sleep level initialized to idle
+0                 SN.node[5].Communication.Radio           completing transition to 0 (RX)
+0                 SN.node[6].Communication.Radio           Initialized RX mode to normal
+0                 SN.node[6].Communication.Radio           Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[6].Communication.Radio           Default sleep level initialized to idle
+0                 SN.node[6].Communication.Radio           completing transition to 0 (RX)
+0                 SN.node[7].Communication.Radio           Initialized RX mode to normal
+0                 SN.node[7].Communication.Radio           Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[7].Communication.Radio           Default sleep level initialized to idle
+0                 SN.node[7].Communication.Radio           completing transition to 0 (RX)
+0                 SN.node[8].Communication.Radio           Initialized RX mode to normal
+0                 SN.node[8].Communication.Radio           Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[8].Communication.Radio           Default sleep level initialized to idle
+0                 SN.node[8].Communication.Radio           completing transition to 0 (RX)
+0                 SN.node[9].Communication.Radio           Initialized RX mode to normal
+0                 SN.node[9].Communication.Radio           Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[9].Communication.Radio           Default sleep level initialized to idle
+0                 SN.node[9].Communication.Radio           completing transition to 0 (RX)
+0                 SN.node[10].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[10].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[10].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[10].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[11].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[11].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[11].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[11].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[12].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[12].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[12].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[12].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[13].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[13].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[13].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[13].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[14].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[14].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[14].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[14].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[15].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[15].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[15].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[15].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[16].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[16].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[16].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[16].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[17].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[17].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[17].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[17].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[18].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[18].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[18].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[18].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[19].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[19].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[19].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[19].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[20].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[20].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[20].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[20].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[21].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[21].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[21].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[21].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[22].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[22].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[22].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[22].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[23].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[23].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[23].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[23].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[24].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[24].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[24].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[24].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[25].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[25].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[25].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[25].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[26].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[26].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[26].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[26].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[27].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[27].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[27].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[27].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[28].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[28].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[28].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[28].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[29].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[29].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[29].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[29].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[30].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[30].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[30].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[30].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[31].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[31].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[31].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[31].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[32].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[32].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[32].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[32].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[33].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[33].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[33].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[33].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[34].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[34].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[34].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[34].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[35].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[35].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[35].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[35].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[36].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[36].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[36].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[36].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[37].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[37].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[37].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[37].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[38].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[38].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[38].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[38].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[39].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[39].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[39].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[39].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[40].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[40].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[40].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[40].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[41].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[41].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[41].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[41].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[42].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[42].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[42].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[42].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[43].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[43].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[43].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[43].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[44].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[44].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[44].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[44].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[45].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[45].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[45].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[45].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[46].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[46].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[46].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[46].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[47].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[47].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[47].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[47].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[48].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[48].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[48].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[48].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[49].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[49].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[49].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[49].Communication.Radio          completing transition to 0 (RX)
+0                 SN.node[50].Communication.Radio          Initialized RX mode to normal
+0                 SN.node[50].Communication.Radio          Initialized TX power output to 0 dBm, consuming 57.42 mW
+0                 SN.node[50].Communication.Radio          Default sleep level initialized to idle
+0                 SN.node[50].Communication.Radio          completing transition to 0 (RX)
+0                 SN.wirelessChannel                       Number of distinct space cells: 51
+0                 SN.wirelessChannel                       Each cell affects 51 other cells on average
+0                 SN.wirelessChannel                       The pathLoss array of lists was allocated in 0.119064 MBytes
+0                 SN.wirelessChannel                       Time for Wireless Channel module initialization: 0.000487secs

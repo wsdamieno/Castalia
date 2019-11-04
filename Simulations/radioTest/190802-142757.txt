@@ -1,0 +1,668 @@
+Castalia| what:[InterferenceTest1,InterferenceTest2]CSinterruptTest (1)
+Castalia| when:2019-08-02 14:27
+Castalia| repeat:0 label:InterferenceTest1,CCAthreshold=-95,TxPower="-5dBm"
+Castalia|		module:SN.Simulation
+Castalia|			simple output name:Execution time, seconds
+Castalia|				0.0
+Castalia|			simple output name:Execution ratio (simtime/realtime)
+Castalia|				Simulation did not run. Real runtime not greater than 0.
+Castalia|	module:SN.node[0].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0663682 
+Castalia|		simple output name:Estimated network lifetime (days)
+Castalia|			3.27618 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[0].Communication.Radio
+Castalia|		simple output name:RX pkt breakdown
+Castalia|			4 Received with NO interference
+Castalia|	module:SN.node[0].Application
+Castalia|		 index:1 simple output name:Packets loss rate
+Castalia|			0.2 total
+Castalia|		 index:1 simple output name:Packets received per node
+Castalia|			4 
+Castalia|		 index:1 simple output name:Packets reception rate
+Castalia|			0.8 total
+Castalia|		histogram name:Application level latency, in ms
+Castalia|		histogram_min:0 histogram_max:200
+Castalia|		histogram_values 4 0 0 0 0 0 0 0 0 0 0
+Castalia|	module:SN.node[1].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0675373 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[1].Communication.Radio
+Castalia|		simple output name:TXed pkts
+Castalia|			4 TX pkts
+Castalia|	module:SN.node[1].Application
+Castalia|		simple output name:Energy nJ/bit
+Castalia|			10295.3 
+Castalia| repeat:0 label:InterferenceTest1,CCAthreshold=-95,TxPower="-10dBm"
+Castalia|		module:SN.Simulation
+Castalia|			simple output name:Execution time, seconds
+Castalia|				0.0
+Castalia|			simple output name:Execution ratio (simtime/realtime)
+Castalia|				Simulation did not run. Real runtime not greater than 0.
+Castalia|	module:SN.node[0].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0663682 
+Castalia|		simple output name:Estimated network lifetime (days)
+Castalia|			3.27618 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[0].Communication.Radio
+Castalia|		simple output name:RX pkt breakdown
+Castalia|			4 Received with NO interference
+Castalia|	module:SN.node[0].Application
+Castalia|		 index:1 simple output name:Packets loss rate
+Castalia|			0.2 total
+Castalia|		 index:1 simple output name:Packets received per node
+Castalia|			4 
+Castalia|		 index:1 simple output name:Packets reception rate
+Castalia|			0.8 total
+Castalia|		histogram name:Application level latency, in ms
+Castalia|		histogram_min:0 histogram_max:200
+Castalia|		histogram_values 4 0 0 0 0 0 0 0 0 0 0
+Castalia|	module:SN.node[1].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0675373 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[1].Communication.Radio
+Castalia|		simple output name:TXed pkts
+Castalia|			4 TX pkts
+Castalia|	module:SN.node[1].Application
+Castalia|		simple output name:Energy nJ/bit
+Castalia|			10295.3 
+Castalia| repeat:0 label:InterferenceTest1,CCAthreshold=-95,TxPower="-15dBm"
+Castalia|		module:SN.Simulation
+Castalia|			simple output name:Execution time, seconds
+Castalia|				0.0
+Castalia|			simple output name:Execution ratio (simtime/realtime)
+Castalia|				Simulation did not run. Real runtime not greater than 0.
+Castalia|	module:SN.node[0].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0663682 
+Castalia|		simple output name:Estimated network lifetime (days)
+Castalia|			3.27618 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[0].Communication.Radio
+Castalia|		simple output name:RX pkt breakdown
+Castalia|			4 Received with NO interference
+Castalia|	module:SN.node[0].Application
+Castalia|		 index:1 simple output name:Packets loss rate
+Castalia|			0.2 total
+Castalia|		 index:1 simple output name:Packets received per node
+Castalia|			4 
+Castalia|		 index:1 simple output name:Packets reception rate
+Castalia|			0.8 total
+Castalia|		histogram name:Application level latency, in ms
+Castalia|		histogram_min:0 histogram_max:200
+Castalia|		histogram_values 4 0 0 0 0 0 0 0 0 0 0
+Castalia|	module:SN.node[1].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0675373 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[1].Communication.Radio
+Castalia|		simple output name:TXed pkts
+Castalia|			4 TX pkts
+Castalia|	module:SN.node[1].Application
+Castalia|		simple output name:Energy nJ/bit
+Castalia|			10295.3 
+Castalia| repeat:0 label:InterferenceTest1,CCAthreshold=-90,TxPower="-5dBm"
+Castalia|		module:SN.Simulation
+Castalia|			simple output name:Execution time, seconds
+Castalia|				0.0
+Castalia|			simple output name:Execution ratio (simtime/realtime)
+Castalia|				Simulation did not run. Real runtime not greater than 0.
+Castalia|	module:SN.node[0].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0663682 
+Castalia|		simple output name:Estimated network lifetime (days)
+Castalia|			3.27618 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[0].Communication.Radio
+Castalia|		simple output name:RX pkt breakdown
+Castalia|			4 Received with NO interference
+Castalia|	module:SN.node[0].Application
+Castalia|		 index:1 simple output name:Packets loss rate
+Castalia|			0.2 total
+Castalia|		 index:1 simple output name:Packets received per node
+Castalia|			4 
+Castalia|		 index:1 simple output name:Packets reception rate
+Castalia|			0.8 total
+Castalia|		histogram name:Application level latency, in ms
+Castalia|		histogram_min:0 histogram_max:200
+Castalia|		histogram_values 4 0 0 0 0 0 0 0 0 0 0
+Castalia|	module:SN.node[1].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0675373 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[1].Communication.Radio
+Castalia|		simple output name:TXed pkts
+Castalia|			4 TX pkts
+Castalia|	module:SN.node[1].Application
+Castalia|		simple output name:Energy nJ/bit
+Castalia|			10295.3 
+Castalia| repeat:0 label:InterferenceTest1,CCAthreshold=-90,TxPower="-10dBm"
+Castalia|		module:SN.Simulation
+Castalia|			simple output name:Execution time, seconds
+Castalia|				0.0
+Castalia|			simple output name:Execution ratio (simtime/realtime)
+Castalia|				Simulation did not run. Real runtime not greater than 0.
+Castalia|	module:SN.node[0].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0663682 
+Castalia|		simple output name:Estimated network lifetime (days)
+Castalia|			3.27618 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[0].Communication.Radio
+Castalia|		simple output name:RX pkt breakdown
+Castalia|			4 Received with NO interference
+Castalia|	module:SN.node[0].Application
+Castalia|		 index:1 simple output name:Packets loss rate
+Castalia|			0.2 total
+Castalia|		 index:1 simple output name:Packets received per node
+Castalia|			4 
+Castalia|		 index:1 simple output name:Packets reception rate
+Castalia|			0.8 total
+Castalia|		histogram name:Application level latency, in ms
+Castalia|		histogram_min:0 histogram_max:200
+Castalia|		histogram_values 4 0 0 0 0 0 0 0 0 0 0
+Castalia|	module:SN.node[1].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0675373 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[1].Communication.Radio
+Castalia|		simple output name:TXed pkts
+Castalia|			4 TX pkts
+Castalia|	module:SN.node[1].Application
+Castalia|		simple output name:Energy nJ/bit
+Castalia|			10295.3 
+Castalia| repeat:0 label:InterferenceTest1,CCAthreshold=-90,TxPower="-15dBm"
+Castalia|		module:SN.Simulation
+Castalia|			simple output name:Execution time, seconds
+Castalia|				0.0
+Castalia|			simple output name:Execution ratio (simtime/realtime)
+Castalia|				Simulation did not run. Real runtime not greater than 0.
+Castalia|	module:SN.node[0].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0663682 
+Castalia|		simple output name:Estimated network lifetime (days)
+Castalia|			3.27618 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[0].Communication.Radio
+Castalia|		simple output name:RX pkt breakdown
+Castalia|			4 Received with NO interference
+Castalia|	module:SN.node[0].Application
+Castalia|		 index:1 simple output name:Packets loss rate
+Castalia|			0.2 total
+Castalia|		 index:1 simple output name:Packets received per node
+Castalia|			4 
+Castalia|		 index:1 simple output name:Packets reception rate
+Castalia|			0.8 total
+Castalia|		histogram name:Application level latency, in ms
+Castalia|		histogram_min:0 histogram_max:200
+Castalia|		histogram_values 4 0 0 0 0 0 0 0 0 0 0
+Castalia|	module:SN.node[1].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0675373 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[1].Communication.Radio
+Castalia|		simple output name:TXed pkts
+Castalia|			4 TX pkts
+Castalia|	module:SN.node[1].Application
+Castalia|		simple output name:Energy nJ/bit
+Castalia|			10295.3 
+Castalia| repeat:0 label:InterferenceTest1,CCAthreshold=-85,TxPower="-5dBm"
+Castalia|		module:SN.Simulation
+Castalia|			simple output name:Execution time, seconds
+Castalia|				0.0
+Castalia|			simple output name:Execution ratio (simtime/realtime)
+Castalia|				Simulation did not run. Real runtime not greater than 0.
+Castalia|	module:SN.node[0].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0663682 
+Castalia|		simple output name:Estimated network lifetime (days)
+Castalia|			3.27618 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[0].Communication.Radio
+Castalia|		simple output name:RX pkt breakdown
+Castalia|			4 Received with NO interference
+Castalia|	module:SN.node[0].Application
+Castalia|		 index:1 simple output name:Packets loss rate
+Castalia|			0.2 total
+Castalia|		 index:1 simple output name:Packets received per node
+Castalia|			4 
+Castalia|		 index:1 simple output name:Packets reception rate
+Castalia|			0.8 total
+Castalia|		histogram name:Application level latency, in ms
+Castalia|		histogram_min:0 histogram_max:200
+Castalia|		histogram_values 4 0 0 0 0 0 0 0 0 0 0
+Castalia|	module:SN.node[1].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0675373 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[1].Communication.Radio
+Castalia|		simple output name:TXed pkts
+Castalia|			4 TX pkts
+Castalia|	module:SN.node[1].Application
+Castalia|		simple output name:Energy nJ/bit
+Castalia|			10295.3 
+Castalia| repeat:0 label:InterferenceTest1,CCAthreshold=-85,TxPower="-10dBm"
+Castalia|		module:SN.Simulation
+Castalia|			simple output name:Execution time, seconds
+Castalia|				0.0
+Castalia|			simple output name:Execution ratio (simtime/realtime)
+Castalia|				Simulation did not run. Real runtime not greater than 0.
+Castalia|	module:SN.node[0].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0663682 
+Castalia|		simple output name:Estimated network lifetime (days)
+Castalia|			3.27618 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[0].Communication.Radio
+Castalia|		simple output name:RX pkt breakdown
+Castalia|			4 Received with NO interference
+Castalia|	module:SN.node[0].Application
+Castalia|		 index:1 simple output name:Packets loss rate
+Castalia|			0.2 total
+Castalia|		 index:1 simple output name:Packets received per node
+Castalia|			4 
+Castalia|		 index:1 simple output name:Packets reception rate
+Castalia|			0.8 total
+Castalia|		histogram name:Application level latency, in ms
+Castalia|		histogram_min:0 histogram_max:200
+Castalia|		histogram_values 4 0 0 0 0 0 0 0 0 0 0
+Castalia|	module:SN.node[1].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0675373 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[1].Communication.Radio
+Castalia|		simple output name:TXed pkts
+Castalia|			4 TX pkts
+Castalia|	module:SN.node[1].Application
+Castalia|		simple output name:Energy nJ/bit
+Castalia|			10295.3 
+Castalia| repeat:0 label:InterferenceTest1,CCAthreshold=-85,TxPower="-15dBm"
+Castalia|		module:SN.Simulation
+Castalia|			simple output name:Execution time, seconds
+Castalia|				0.0
+Castalia|			simple output name:Execution ratio (simtime/realtime)
+Castalia|				Simulation did not run. Real runtime not greater than 0.
+Castalia|	module:SN.node[0].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0663682 
+Castalia|		simple output name:Estimated network lifetime (days)
+Castalia|			3.27618 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[0].Communication.Radio
+Castalia|		simple output name:RX pkt breakdown
+Castalia|			4 Received with NO interference
+Castalia|	module:SN.node[0].Application
+Castalia|		 index:1 simple output name:Packets loss rate
+Castalia|			0.2 total
+Castalia|		 index:1 simple output name:Packets received per node
+Castalia|			4 
+Castalia|		 index:1 simple output name:Packets reception rate
+Castalia|			0.8 total
+Castalia|		histogram name:Application level latency, in ms
+Castalia|		histogram_min:0 histogram_max:200
+Castalia|		histogram_values 4 0 0 0 0 0 0 0 0 0 0
+Castalia|	module:SN.node[1].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0675373 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[1].Communication.Radio
+Castalia|		simple output name:TXed pkts
+Castalia|			4 TX pkts
+Castalia|	module:SN.node[1].Application
+Castalia|		simple output name:Energy nJ/bit
+Castalia|			10295.3 
+Castalia| repeat:0 label:InterferenceTest2,CCAthreshold=-95,TxPower="-5dBm"
+Castalia|		module:SN.Simulation
+Castalia|			simple output name:Execution time, seconds
+Castalia|				0.0
+Castalia|			simple output name:Execution ratio (simtime/realtime)
+Castalia|				Simulation did not run. Real runtime not greater than 0.
+Castalia|	module:SN.node[0].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0663682 
+Castalia|		simple output name:Estimated network lifetime (days)
+Castalia|			3.27618 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[0].Communication.Radio
+Castalia|		simple output name:RX pkt breakdown
+Castalia|			4 Received with NO interference
+Castalia|	module:SN.node[0].Application
+Castalia|		 index:1 simple output name:Packets loss rate
+Castalia|			0.2 total
+Castalia|		 index:1 simple output name:Packets received per node
+Castalia|			4 
+Castalia|		 index:1 simple output name:Packets reception rate
+Castalia|			0.8 total
+Castalia|		histogram name:Application level latency, in ms
+Castalia|		histogram_min:0 histogram_max:200
+Castalia|		histogram_values 4 0 0 0 0 0 0 0 0 0 0
+Castalia|	module:SN.node[1].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0675373 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[1].Communication.Radio
+Castalia|		simple output name:TXed pkts
+Castalia|			4 TX pkts
+Castalia|	module:SN.node[1].Application
+Castalia|		simple output name:Energy nJ/bit
+Castalia|			10295.3 
+Castalia| repeat:0 label:InterferenceTest2,CCAthreshold=-95,TxPower="-10dBm"
+Castalia|		module:SN.Simulation
+Castalia|			simple output name:Execution time, seconds
+Castalia|				0.0
+Castalia|			simple output name:Execution ratio (simtime/realtime)
+Castalia|				Simulation did not run. Real runtime not greater than 0.
+Castalia|	module:SN.node[0].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0663682 
+Castalia|		simple output name:Estimated network lifetime (days)
+Castalia|			3.27618 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[0].Communication.Radio
+Castalia|		simple output name:RX pkt breakdown
+Castalia|			4 Received with NO interference
+Castalia|	module:SN.node[0].Application
+Castalia|		 index:1 simple output name:Packets loss rate
+Castalia|			0.2 total
+Castalia|		 index:1 simple output name:Packets received per node
+Castalia|			4 
+Castalia|		 index:1 simple output name:Packets reception rate
+Castalia|			0.8 total
+Castalia|		histogram name:Application level latency, in ms
+Castalia|		histogram_min:0 histogram_max:200
+Castalia|		histogram_values 4 0 0 0 0 0 0 0 0 0 0
+Castalia|	module:SN.node[1].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0675373 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[1].Communication.Radio
+Castalia|		simple output name:TXed pkts
+Castalia|			4 TX pkts
+Castalia|	module:SN.node[1].Application
+Castalia|		simple output name:Energy nJ/bit
+Castalia|			10295.3 
+Castalia| repeat:0 label:InterferenceTest2,CCAthreshold=-95,TxPower="-15dBm"
+Castalia|		module:SN.Simulation
+Castalia|			simple output name:Execution time, seconds
+Castalia|				0.0
+Castalia|			simple output name:Execution ratio (simtime/realtime)
+Castalia|				Simulation did not run. Real runtime not greater than 0.
+Castalia|	module:SN.node[0].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0663682 
+Castalia|		simple output name:Estimated network lifetime (days)
+Castalia|			3.27618 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[0].Communication.Radio
+Castalia|		simple output name:RX pkt breakdown
+Castalia|			4 Received with NO interference
+Castalia|	module:SN.node[0].Application
+Castalia|		 index:1 simple output name:Packets loss rate
+Castalia|			0.2 total
+Castalia|		 index:1 simple output name:Packets received per node
+Castalia|			4 
+Castalia|		 index:1 simple output name:Packets reception rate
+Castalia|			0.8 total
+Castalia|		histogram name:Application level latency, in ms
+Castalia|		histogram_min:0 histogram_max:200
+Castalia|		histogram_values 4 0 0 0 0 0 0 0 0 0 0
+Castalia|	module:SN.node[1].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0675373 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[1].Communication.Radio
+Castalia|		simple output name:TXed pkts
+Castalia|			4 TX pkts
+Castalia|	module:SN.node[1].Application
+Castalia|		simple output name:Energy nJ/bit
+Castalia|			10295.3 
+Castalia| repeat:0 label:InterferenceTest2,CCAthreshold=-90,TxPower="-5dBm"
+Castalia|		module:SN.Simulation
+Castalia|			simple output name:Execution time, seconds
+Castalia|				0.0
+Castalia|			simple output name:Execution ratio (simtime/realtime)
+Castalia|				Simulation did not run. Real runtime not greater than 0.
+Castalia|	module:SN.node[0].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0663682 
+Castalia|		simple output name:Estimated network lifetime (days)
+Castalia|			3.27618 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[0].Communication.Radio
+Castalia|		simple output name:RX pkt breakdown
+Castalia|			4 Received with NO interference
+Castalia|	module:SN.node[0].Application
+Castalia|		 index:1 simple output name:Packets loss rate
+Castalia|			0.2 total
+Castalia|		 index:1 simple output name:Packets received per node
+Castalia|			4 
+Castalia|		 index:1 simple output name:Packets reception rate
+Castalia|			0.8 total
+Castalia|		histogram name:Application level latency, in ms
+Castalia|		histogram_min:0 histogram_max:200
+Castalia|		histogram_values 4 0 0 0 0 0 0 0 0 0 0
+Castalia|	module:SN.node[1].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0675373 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[1].Communication.Radio
+Castalia|		simple output name:TXed pkts
+Castalia|			4 TX pkts
+Castalia|	module:SN.node[1].Application
+Castalia|		simple output name:Energy nJ/bit
+Castalia|			10295.3 
+Castalia| repeat:0 label:InterferenceTest2,CCAthreshold=-90,TxPower="-10dBm"
+Castalia|		module:SN.Simulation
+Castalia|			simple output name:Execution time, seconds
+Castalia|				0.0
+Castalia|			simple output name:Execution ratio (simtime/realtime)
+Castalia|				Simulation did not run. Real runtime not greater than 0.
+Castalia|	module:SN.node[0].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0663682 
+Castalia|		simple output name:Estimated network lifetime (days)
+Castalia|			3.27618 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[0].Communication.Radio
+Castalia|		simple output name:RX pkt breakdown
+Castalia|			4 Received with NO interference
+Castalia|	module:SN.node[0].Application
+Castalia|		 index:1 simple output name:Packets loss rate
+Castalia|			0.2 total
+Castalia|		 index:1 simple output name:Packets received per node
+Castalia|			4 
+Castalia|		 index:1 simple output name:Packets reception rate
+Castalia|			0.8 total
+Castalia|		histogram name:Application level latency, in ms
+Castalia|		histogram_min:0 histogram_max:200
+Castalia|		histogram_values 4 0 0 0 0 0 0 0 0 0 0
+Castalia|	module:SN.node[1].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0675373 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[1].Communication.Radio
+Castalia|		simple output name:TXed pkts
+Castalia|			4 TX pkts
+Castalia|	module:SN.node[1].Application
+Castalia|		simple output name:Energy nJ/bit
+Castalia|			10295.3 
+Castalia| repeat:0 label:InterferenceTest2,CCAthreshold=-90,TxPower="-15dBm"
+Castalia|		module:SN.Simulation
+Castalia|			simple output name:Execution time, seconds
+Castalia|				0.0
+Castalia|			simple output name:Execution ratio (simtime/realtime)
+Castalia|				Simulation did not run. Real runtime not greater than 0.
+Castalia|	module:SN.node[0].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0663682 
+Castalia|		simple output name:Estimated network lifetime (days)
+Castalia|			3.27618 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[0].Communication.Radio
+Castalia|		simple output name:RX pkt breakdown
+Castalia|			4 Received with NO interference
+Castalia|	module:SN.node[0].Application
+Castalia|		 index:1 simple output name:Packets loss rate
+Castalia|			0.2 total
+Castalia|		 index:1 simple output name:Packets received per node
+Castalia|			4 
+Castalia|		 index:1 simple output name:Packets reception rate
+Castalia|			0.8 total
+Castalia|		histogram name:Application level latency, in ms
+Castalia|		histogram_min:0 histogram_max:200
+Castalia|		histogram_values 4 0 0 0 0 0 0 0 0 0 0
+Castalia|	module:SN.node[1].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0675373 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[1].Communication.Radio
+Castalia|		simple output name:TXed pkts
+Castalia|			4 TX pkts
+Castalia|	module:SN.node[1].Application
+Castalia|		simple output name:Energy nJ/bit
+Castalia|			10295.3 
+Castalia| repeat:0 label:InterferenceTest2,CCAthreshold=-85,TxPower="-5dBm"
+Castalia|		module:SN.Simulation
+Castalia|			simple output name:Execution time, seconds
+Castalia|				0.0
+Castalia|			simple output name:Execution ratio (simtime/realtime)
+Castalia|				Simulation did not run. Real runtime not greater than 0.
+Castalia|	module:SN.node[0].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0663682 
+Castalia|		simple output name:Estimated network lifetime (days)
+Castalia|			3.27618 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[0].Communication.Radio
+Castalia|		simple output name:RX pkt breakdown
+Castalia|			4 Received with NO interference
+Castalia|	module:SN.node[0].Application
+Castalia|		 index:1 simple output name:Packets loss rate
+Castalia|			0.2 total
+Castalia|		 index:1 simple output name:Packets received per node
+Castalia|			4 
+Castalia|		 index:1 simple output name:Packets reception rate
+Castalia|			0.8 total
+Castalia|		histogram name:Application level latency, in ms
+Castalia|		histogram_min:0 histogram_max:200
+Castalia|		histogram_values 4 0 0 0 0 0 0 0 0 0 0
+Castalia|	module:SN.node[1].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0675373 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[1].Communication.Radio
+Castalia|		simple output name:TXed pkts
+Castalia|			4 TX pkts
+Castalia|	module:SN.node[1].Application
+Castalia|		simple output name:Energy nJ/bit
+Castalia|			10295.3 
+Castalia| repeat:0 label:InterferenceTest2,CCAthreshold=-85,TxPower="-10dBm"
+Castalia|		module:SN.Simulation
+Castalia|			simple output name:Execution time, seconds
+Castalia|				0.0
+Castalia|			simple output name:Execution ratio (simtime/realtime)
+Castalia|				Simulation did not run. Real runtime not greater than 0.
+Castalia|	module:SN.node[0].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0663682 
+Castalia|		simple output name:Estimated network lifetime (days)
+Castalia|			3.27618 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[0].Communication.Radio
+Castalia|		simple output name:RX pkt breakdown
+Castalia|			4 Received with NO interference
+Castalia|	module:SN.node[0].Application
+Castalia|		 index:1 simple output name:Packets loss rate
+Castalia|			0.2 total
+Castalia|		 index:1 simple output name:Packets received per node
+Castalia|			4 
+Castalia|		 index:1 simple output name:Packets reception rate
+Castalia|			0.8 total
+Castalia|		histogram name:Application level latency, in ms
+Castalia|		histogram_min:0 histogram_max:200
+Castalia|		histogram_values 4 0 0 0 0 0 0 0 0 0 0
+Castalia|	module:SN.node[1].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0675373 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[1].Communication.Radio
+Castalia|		simple output name:TXed pkts
+Castalia|			4 TX pkts
+Castalia|	module:SN.node[1].Application
+Castalia|		simple output name:Energy nJ/bit
+Castalia|			10295.3 
+Castalia| repeat:0 label:InterferenceTest2,CCAthreshold=-85,TxPower="-15dBm"
+Castalia|		module:SN.Simulation
+Castalia|			simple output name:Execution time, seconds
+Castalia|				0.0
+Castalia|			simple output name:Execution ratio (simtime/realtime)
+Castalia|				Simulation did not run. Real runtime not greater than 0.
+Castalia|	module:SN.node[0].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0663682 
+Castalia|		simple output name:Estimated network lifetime (days)
+Castalia|			3.27618 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[0].Communication.Radio
+Castalia|		simple output name:RX pkt breakdown
+Castalia|			4 Received with NO interference
+Castalia|	module:SN.node[0].Application
+Castalia|		 index:1 simple output name:Packets loss rate
+Castalia|			0.2 total
+Castalia|		 index:1 simple output name:Packets received per node
+Castalia|			4 
+Castalia|		 index:1 simple output name:Packets reception rate
+Castalia|			0.8 total
+Castalia|		histogram name:Application level latency, in ms
+Castalia|		histogram_min:0 histogram_max:200
+Castalia|		histogram_values 4 0 0 0 0 0 0 0 0 0 0
+Castalia|	module:SN.node[1].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			0.0675373 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18719.9 
+Castalia|	module:SN.node[1].Communication.Radio
+Castalia|		simple output name:TXed pkts
+Castalia|			4 TX pkts
+Castalia|	module:SN.node[1].Application
+Castalia|		simple output name:Energy nJ/bit
+Castalia|			10295.3 

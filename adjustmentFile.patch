@@ -1,0 +1,36 @@
+diff -r -u ./src/helpStructures/CastaliaModule.cc ./src/helpStructures/CastaliaModule.cc
+--- ./src/helpStructures/CastaliaModule.cc	2010-12-09 09:56:47.000000000 -0300
++++ ./src/helpStructures/CastaliaModule.cc	2011-12-20 00:16:39.944320051 -0300
+@@ -180,6 +180,8 @@
+ 			classPointers.resourceManager = getParentModule()->getParentModule()->getSubmodule("ResourceManager");
+ 		else if (name.compare("SensorManager") == 0)
+ 			classPointers.resourceManager = getParentModule()->getSubmodule("ResourceManager");
++		else if (name.compare("Routing") == 0)
++            		classPointers.resourceManager = getParentModule()->getParentModule()->getSubmodule("ResourceManager");
+ 		else
+ 			opp_error("%s module has no rights to call drawPower() function", getFullPath().c_str());
+         if (!classPointers.resourceManager) 
+Only in ./src/helpStructures: CastaliaModule.cc~
+diff -r -u ./src/node/communication/mac/tunableMac/TunableMAC.cc ./src/node/communication/mac/tunableMac/TunableMAC.cc
+--- ./src/node/communication/mac/tunableMac/TunableMAC.cc	2011-03-30 02:14:34.000000000 -0300
++++ ./src/node/communication/mac/tunableMac/TunableMAC.cc	2011-12-19 23:57:43.894686687 -0300
+@@ -405,6 +405,8 @@
+ void TunableMAC::fromRadioLayer(cPacket * pkt, double rssi, double lqi)
+ {
+ 	TunableMacPacket *macFrame = dynamic_cast <TunableMacPacket*>(pkt);
++	macFrame->getMacRadioInfoExchange().RSSI = rssi;
++	macFrame->getMacRadioInfoExchange().LQI = lqi;
+ 	if (macFrame == NULL){
+ 		collectOutput("TunableMAC packet breakdown", "filtered, other MAC");
+ 		return;
+@@ -454,7 +456,8 @@
+ 		}
+ 
+ 		case DATA_FRAME:{
+-			toNetworkLayer(macFrame->decapsulate());
++			cPacket *netPkt = decapsulatePacket(macFrame);
++			toNetworkLayer(netPkt);
+ 			collectOutput("TunableMAC packet breakdown", "received data pkts");
+ 			if (macState == MAC_STATE_RX) {
+ 				cancelTimer(ATTEMPT_TX);
+Only in ./src/node/communication/mac/tunableMac: TunableMAC.cc~

@@ -1,0 +1,59 @@
+Castalia| what:InterferenceTest1 (1)
+Castalia| when:2019-08-02 14:22
+Castalia| repeat:0 label:InterferenceTest1
+Castalia|		module:SN.Simulation
+Castalia|			simple output name:Execution time, seconds
+Castalia|				0.026
+Castalia|			simple output name:Execution ratio (simtime/realtime)
+Castalia|				3846.15384615
+Castalia|	module:SN.node[0].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			6.79813 
+Castalia|		simple output name:Estimated network lifetime (days)
+Castalia|			3.18715 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18713.2 
+Castalia|	module:SN.node[0].Communication.Radio
+Castalia|		simple output name:RX pkt breakdown
+Castalia|			561 Failed with interference
+Castalia|			200 Failed, below sensitivity
+Castalia|			189 Received despite interference
+Castalia|			24 Received with NO interference
+Castalia|	module:SN.node[0].Application
+Castalia|		 index:1 simple output name:Packets loss rate
+Castalia|			0.573146 total
+Castalia|		 index:2 simple output name:Packets loss rate
+Castalia|			1 total
+Castalia|		 index:1 simple output name:Packets received per node
+Castalia|			213 
+Castalia|		 index:1 simple output name:Packets reception rate
+Castalia|			0.426854 total
+Castalia|		 index:2 simple output name:Packets reception rate
+Castalia|			0 total
+Castalia|		histogram name:Application level latency, in ms
+Castalia|		histogram_min:0 histogram_max:200
+Castalia|		histogram_values 0 0 0 213 0 0 0 0 0 0 0
+Castalia|	module:SN.node[1].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			6.28785 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18713.7 
+Castalia|	module:SN.node[1].Communication.Radio
+Castalia|		simple output name:RX pkt breakdown
+Castalia|			475 Failed, non RX state
+Castalia|		simple output name:TXed pkts
+Castalia|			499 TX pkts
+Castalia|	module:SN.node[1].Application
+Castalia|		simple output name:Energy nJ/bit
+Castalia|			1840.43 
+Castalia|	module:SN.node[2].ResourceManager
+Castalia|		simple output name:Consumed Energy
+Castalia|			6.28569 
+Castalia|		simple output name:Remaining Energy
+Castalia|			18713.7 
+Castalia|	module:SN.node[2].Communication.Radio
+Castalia|		simple output name:RX pkt breakdown
+Castalia|			200 Failed, below sensitivity
+Castalia|			275 Failed, non RX state
+Castalia|		simple output name:TXed pkts
+Castalia|			499 TX pkts
