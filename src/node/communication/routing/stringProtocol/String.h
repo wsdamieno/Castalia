@@ -35,7 +35,7 @@ const int stringFoodNumber = stringNP / 2;//The number of food sources equals th
 const int stringLimit = 20;//A food source which could not be improved through limit trials is abandoned by its employed bee
 const int stringMaxCycle = 50;//The number of cycles for search
 
-const int stringD = 50;//The number of parameters of the problem to be optimized
+const int stringD = 20;//The number of parameters of the problem to be optimized
 int stringLb ;//lower bounds of the parameters
 int stringUb ;//upper bound of the parameters
 double stringResult[stringMaxCycle] = { 0 };

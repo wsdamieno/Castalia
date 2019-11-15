@@ -760,25 +760,62 @@ void stringInitilize() {
 double stringCalculationTruefit(StringBeeGroup bee)//calculate the value of the function
 {
 	double fitness = 0;
+	stringNodeInfo prev;
 	stringNodeInfo node;
 	stringNodeInfo next;
+	int nodePosition;
+	
 	for (int j=0; j<stringD ; j++) {
+		double fit1 = 0;
+		double fit2 = 0;
 		for (list <stringNodeInfo>::iterator ch = stringCHcandidates.begin(); ch != stringCHcandidates.end(); ch++) {
 			if ((*ch).id == bee.code[j]) {
 				node = (*ch) ;
-			}else if ((*ch).id == bee.code[j+1] && j != stringD-1) {
-				next = (*ch); 
-			}else if (j == stringD-1 && (*ch).id == bee.code[0]) {
-				next = (*ch);
-			} 
-  	} 
-  	 	
-  	for (list <StringNeighborInfo>::iterator it = node.NeighborsTable.begin(); it != node.NeighborsTable.end(); it++) {
-  		if ((*it).id == next.id)
-  			fitness += abs((*it).rssi) ; // Som = Abs(RSSI_next)/Residual of the node of the ring
-  	}
-  }
-    
+				nodePosition = j; // Save the node position in a variable !
+				break;
+			}
+		}	
+	
+	
+		if (nodePosition == 0) {
+			for (list <stringNodeInfo>::iterator it = stringCHcandidates.begin(); it != stringCHcandidates.end(); it++) {
+				if ((*it).id == bee.code[1]) {
+					next = (*it) ;
+				}else if ((*it).id == bee.code[stringD-1]) {
+					prev = (*it) ;
+				}
+			}
+		}else if (nodePosition == stringD-1){
+			for (list <stringNodeInfo>::iterator it = stringCHcandidates.begin(); it != stringCHcandidates.end(); it++) {
+				if ((*it).id == bee.code[stringD-2]) {
+					prev = (*it) ;
+				}else if ((*it).id == bee.code[0]) {
+					next = (*it) ;
+				}
+			}
+		}else {
+			for (list <stringNodeInfo>::iterator it = stringCHcandidates.begin(); it != stringCHcandidates.end(); it++) {
+				if ((*it).id == bee.code[nodePosition-1]) {
+					prev = (*it) ;
+				}else if ((*it).id == bee.code[nodePosition+1]) {
+					next = (*it) ;
+				}
+			}
+		}
+			 	
+		for (list <StringNeighborInfo>::iterator it = node.NeighborsTable.begin(); it != node.NeighborsTable.end(); it++) {
+			if ((*it).id == next.id)
+				fit1 = (*it).rssi ; // Som = Abs(RSSI_next)/Residual of the node of the ring
+		}
+		
+		for (list <StringNeighborInfo>::iterator it = prev.NeighborsTable.begin(); it != prev.NeighborsTable.end(); it++) {
+			if ((*it).id == node.id)
+				fit2 = (*it).rssi ; // Som = Abs(RSSI_next)/Residual of the node of the ring
+		}
+		
+		fitness += 1/(fit1+fit2);
+	}
+   
 	return fitness ;
 }
 
@@ -840,7 +877,6 @@ void EmployedBees() {
 			candidate = stringExistCandidateSet(temp);
 			path = stringExistPath(StringEmployedBee[i].code, temp, param2change, stringD); // Check if there is a path between added nodes and its neighbor (previous and next)
 		}
-		
 		
 		for (int j=0 ; j<stringD; j++) {
 			if (StringEmployedBee[i].code[j] == temp) {
